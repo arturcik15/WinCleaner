@@ -1,3 +1,6 @@
+alt="WinCleaner by Art" width="100%">
+</p>
+
 <p align="center">
   <img src="assets/logo/wincleaner-banner-1280x640.png" alt="WinCleaner by Art" width="100%">
 </p>
