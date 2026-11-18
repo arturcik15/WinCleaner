@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/logo/wincleaner-banner-1280x640.png" alt="WinCleaner by Art" width="100%">
-</p>
-
 <h1 align="center">WinCleaner by Art</h1>
 
 <p align="center">
