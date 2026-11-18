@@ -1,4 +1,6 @@
-<h1 align="center">WinCleaner by Art</h1>
+<p align="center">
+  <img src="assets/logo/wincleaner-banner-1280x640.png" alt="WinCleaner by Art" width="100%">
+</p>
 
 <p align="center">
   Очистка и оптимизация Windows с <b>кнопкой «Отменить» для каждого изменения</b>.<br>
@@ -11,8 +13,6 @@
   <img alt="Windows 8.1, 10, 11" src="https://img.shields.io/badge/Windows-8.1%20%7C%2010%20%7C%2011-2563eb">
   <img alt="Python 3.11 и PyQt5" src="https://img.shields.io/badge/Python-3.11%20%2B%20PyQt5-2563eb">
 </p>
-
-<p align="center"><b>Русский</b> · <a href="README.en.md">English</a></p>
 
 ---
 
