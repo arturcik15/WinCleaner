@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/arturcik15/WinCleaner/releases/latest"><img alt="Последний релиз" src="https://img.shields.io/github/v/release/arturcik15/WinCleaner?label=%D1%80%D0%B5%D0%BB%D0%B8%D0%B7&color=2563eb"></a>
-  <a href="https://github.com/arturcik15/WinCleaner/releases"><img
+  <a href="https://github.com/arturcik15/WinCleaner/releases"><img alt="Скачиваний" src="https://img.shields.io/github/downloads/arturcik15/WinCleaner/total?label=%D1%81%D0%BA%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9&color=2563eb"></a>
   <img alt="Windows 8.1, 10, 11" src="https://img.shields.io/badge/Windows-8.1%20%7C%2010%20%7C%2011-2563eb">
   <img alt="Python 3.11 и PyQt5" src="https://img.shields.io/badge/Python-3.11%20%2B%20PyQt5-2563eb">
 </p>
